@@ -22,3 +22,6 @@ const generatePage = (name, github) => {
 };
 console.log(name, github);
 console.log(generatePage(name, github));
+
+
+commit before leaving work
